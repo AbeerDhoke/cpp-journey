@@ -24,3 +24,5 @@ This repository contains topic-wise examples, coding exercises, and DSA implemen
 🚀 Building in public, one topic at a time.
 
 **Author:** Abeer Dhoke
+
+g++ -std=c++17 patterns_01.cpp -o main.exe && main.exe
